@@ -13,6 +13,7 @@ venv/
 
 # PyCharm project files
 .idea/
+/.idea/
 
 # VS Code project files (на случай использования VS Code)
 .vscode/
